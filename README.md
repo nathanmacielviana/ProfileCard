@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/Status-Up-sucess"/>
 <img src="https://img.shields.io/badge/Lan%C3%A7amento-%202023-sucess">
 <img src="https://img.shields.io/badge/License-MIT%20-blue">
-<img src="https://img.shields.io/badge/Ver-0.0-blue"/>
 </p>
 
 <h2 align="center">Linguagens Utilizadas 💻</h2>
