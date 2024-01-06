@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #1C1C1C;
+	font-family: 'Silkscreen', cursive;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	min-height: 100vh;
+	margin: 0;
+}
+
+
+h6 {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.autotype
+{
+    color: #E31C25;
+}
+
+.card-container .round {
+	border: 1px solid #E31C25;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+.card-container {
+	background-color: #111111;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+	color: white;
+	padding-top: 30px;
+	position: relative;
+	width: 350px;
+	max-width: 100%;
+	text-align: center;
+}
+
+.card-container .pro {
+	color: #231E39;	
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 3px 7px;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+
+.card-container .round {
+	border: 1px solid white;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+.social a
+{
+    display: inline-flex;
+	justify-items: center;
+    justify-content: center;
+    align-items: center;
+	align-content: center;
+    width: 2.9rem;
+    height: 2.9rem;
+    background: transparent;
+    border: .2rem solid white;
+    border-radius: 50%;
+    font-size: 2rem;
+    color: white;
+    margin: 2rem 1rem 2.4rem 0;
+    transition: .3s ease;
+	text-decoration: none;
+}
+
+.social a:hover
+{
+    background: #E31C25;
+	color: white;
+	transform: scale(1.02);
+}
+
+button.primary {
+	background-color: #E31C25;
+	border: 1px solid white;
+	border-radius: 20px;
+	color: white;
+	font-family: 'Silkscreen', cursive;
+	font-weight: 500;
+	padding: 10px 35px;
+}
+
+button.primary a
+{
+    text-decoration: none;
+    color: white;
+    
+}
+
+button.primary:hover
+{
+	transform: scale(1.02);  
+}
+
+
+
