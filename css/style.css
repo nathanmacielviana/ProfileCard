@@ -68,6 +68,7 @@ p {
 	padding: 7px;
 }
 
+/*
 .social a
 {
     display: inline-flex;
@@ -93,6 +94,7 @@ p {
 	color: white;
 	transform: scale(1.02);
 }
+*/
 
 button.primary {
 	background-color: #E31C25;
@@ -102,6 +104,8 @@ button.primary {
 	font-family: 'Silkscreen', cursive;
 	font-weight: 500;
 	padding: 10px 35px;
+	margin-top: 1rem;
+	margin-bottom: 3rem;
 }
 
 button.primary a
